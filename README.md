@@ -2,36 +2,42 @@
 
 Here is a map of queer in China.
 
-*_Catogorized by Disciplines_*
+_Catogorized by Disciplines_
 
-### Law
+## Law
 
-## Legislation
+### Legislation
 * Discriminalization of gay sex
 * Anti-Domestic-Violence
 
-## Impact Litigation
-* Gay Teacher Was Dimissed
+### Impact Litigation
+* [Gay Teacher Was Dimissed](https://joancliu.github.io/mingjue.html)
 * Transgender Was Discriminated
 * Same-Sex Marrigae
 * NRTA Guideline Labelled Homosexuality Abnormal
+
+## Culture
+* Weibo Ban
+* Bohemia Rhapsody
 
 
 ## Education
 * Multi-gender Textbook
 
+
+_Other Resources_
+
 ## Scholars
 ### Law
 * [GUO,Xiaofei(郭晓飞)](http://fxy.cupl.edu.cn/info/1091/2610.htm): Associate Professor in China University of Political Science and Law.
+
 ### Sociology
 * [WEI,Wei(魏伟)](https://www.douban.com/note/558790908/):Associate Professor in East China Normal University.
+
 ### Psychology
 * [FANG,Gang(方刚)](https://baike.baidu.com/item/方刚/9478294?fr=aladdin): Associate Professor in Beijing Foresty Univeristy.
 
 ## NGOs
-
-
-
 
 
 Useful Links:
