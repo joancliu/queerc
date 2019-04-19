@@ -1,7 +1,6 @@
 # Queer in China
-[TOC]
 
-Here is a map of queer in China.
+Here is a map of queer in China.I study law, so this map might mostly focus on law and regulations.
 
 _**Catogorized by Disciplines**_
 
@@ -17,13 +16,21 @@ _**Catogorized by Disciplines**_
 * Same-Sex Marrigae
 * NRTA Guideline Labelled Homosexuality Abnormal
 
+## Education
+* Multi-gender Textbook
+
 ## Culture
 * Weibo Ban
 * Bohemia Rhapsody
 
+## Health
+* HIV
 
-## Education
-* Multi-gender Textbook
+## Technology
+* Blued
+
+
+
 
 
 _**Other Resources**_
@@ -40,8 +47,12 @@ _**Other Resources**_
 
 ## NGOs
 
+* 同语
+* 爱白
+* 同志平等权利促进会
+...
 
-Useful Links:
+## Useful Links:
 
 1. [cnlgbtdata](https://cnlgbtdata.com/): Regulations, Reports, Academic Works
 2. [HongInternational(虹国际)](http://rainbowun.org): China on SOGIE(Sexual Orientation, Gender Identity and Expression)
