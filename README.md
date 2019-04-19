@@ -1,8 +1,9 @@
 # Queer in China
+[TOC]
 
 Here is a map of queer in China.
 
-_Catogorized by Disciplines_
+_**Catogorized by Disciplines**_
 
 ## Law
 
@@ -25,7 +26,7 @@ _Catogorized by Disciplines_
 * Multi-gender Textbook
 
 
-_Other Resources_
+_**Other Resources**_
 
 ## Scholars
 ### Law
