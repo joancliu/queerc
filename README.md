@@ -1,8 +1,8 @@
-# Queer in China
+# Queer Act in China
 
 * [中文版](./README_CN.md)
 
-In the last few years, LGBT+ people in China witnessed highs and lows, or we have developed a new perspective on how to views. There are times when you sow, plough and harvest. Hope the seeds they sowed and ploughed in the past 5 years, will give us a plentiful harvest in the future. Here is a map of queer in China.I study law, so this map might mostly focus on law and regulations.
+In the last few years, LGBT+ people in China witnessed highs and lows, or we have developed a new perspective on how to views. There are times when you sow, plough and harvest. Hope the seeds they sowed and ploughed in the past few years, will give them a plentiful harvest in the future. Here is a map or list of queer's act in China. I study law, so please excuse me this map might mostly focus on law and regulations.
 
 _**Important Events**_
 
