@@ -8,9 +8,9 @@ _**Important Events**_
 
 
 ## Legislation
-* 同性性行为去罪化 Discriminalization of gay sex
-* 反就业歧视法 Anti-discrimination Law
-* 反家暴法 Anti-Domestic-Violence
+* Discriminalization of gay sex
+* Anti-discrimination Law
+* Anti-Domestic-Violence
 
 ## Impact Litigation
 ### 2014
