@@ -32,7 +32,7 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
 * 污名化教材京东及出版社产品质量纠纷
 
 #### 2018
-* 同性教师劳动权及就业平等权一案
+* [同性教师劳动权及就业平等权一案](./mingjue.md)
 
 
 ### Censorship
