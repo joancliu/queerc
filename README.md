@@ -14,7 +14,7 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
 
 ### Impact Litigation
 #### 2014
-* 扭转治疗民事侵权
+* [Clinic, Baidu on Trial over Gay Conversion Therapy](./yanzi.md)
 * 就业歧视一般人格权诉讼案
 
 #### 2015
