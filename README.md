@@ -1,8 +1,10 @@
 # Queer in China
 
+* [中文版](./README_CN.md)
+
 In the last few years, LGBT+ people in China witnessed highs and lows, or we have developed a new perspective on how to views. There are times when you sow, plough and harvest. Hope the seeds they sowed and ploughed in the past 5 years, will give us a plentiful harvest in the future. Here is a map of queer in China.I study law, so this map might mostly focus on law and regulations.
 
-_**Catogorized by Disciplines**_
+_**Important Events**_
 
 
 ## Legislation
@@ -40,7 +42,9 @@ _**Catogorized by Disciplines**_
 * Multi-gender Textbook
 
 
+
 _**Other Resources**_
+
 
 ## Scholars
 * [GUO,Xiaofei(郭晓飞)](http://fxy.cupl.edu.cn/info/1091/2610.htm): Associate Professor in China University of Political Science and Law. Mainly focus on constitutional law and jurisprudence, etc.
