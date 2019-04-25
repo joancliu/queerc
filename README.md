@@ -18,7 +18,6 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
   * Keywords: gay, conversion therapy, phychological counselling center, Baidu
   * Cause of Action: Infringement of the right of health body and the general right of personality 
   * Results: Won on 19 December 2014
-  * 
 * 小太阳就业歧视一般人格权诉讼案
 
 #### 2015
