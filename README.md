@@ -13,7 +13,13 @@
 * 反家暴立法
 
 ### 公益诉讼
+
+#### 概览
+
+<iframe id="embed_dom" name="embed_dom" frameborder="0" style="display:block;width:525px; height:245px;" src="https://www.processon.com/embed/5cc20886e4b0841b8440257c"></iframe>
+
 #### 2014
+
 **[同性恋扭转治疗第一案](./yanzi.md)**
 
 * 关键词：同性恋，扭转治疗，心理咨询中心，百度
@@ -105,13 +111,18 @@
 
 (...等待更新)
 
-### 学界关注
+### 研究
+
+如：
+
 * [FANG,Gang(方刚)](https://baike.baidu.com/item/方刚/9478294?fr=aladdin): 北京林业大学应用心理学系副教授，主要研究性学、性心理学等。
 * [GUO,Xiaofei(郭晓飞)](http://fxy.cupl.edu.cn/info/1091/2610.htm): 中国政法大学法学院副教授，主要研究宪法及法理。
 * [LIU, Xiaonan(刘小楠)](http://rqyjy.cupl.edu.cn/info/1031/1702.htm): 中国政法大学人权研究院教授，主要研究反歧视法等。
 * [WEI,Wei(魏伟)](https://www.douban.com/note/558790908/): 华东师范大学社会学系副教授，主要研究社会学。
 
- (...等待更新)
+ [更多](yanjiu.md)
+
+
 
 
 ## 一些你点了不会后悔的链接:

@@ -13,6 +13,11 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
 * Anti-Domestic-Violence
 
 ### Impact Litigation
+
+#### Overview
+
+<iframe id="embed_dom" name="embed_dom" frameborder="0" style="display:block;width:525px; height:245px;" src="https://www.processon.com/embed/5cc20886e4b0841b8440257c"></iframe>
+
 #### 2014
 **[China Court Ruled in Favor of A Gay Man in The First Gay Conversion Therapy Case](./yanzi.md)**
 
@@ -103,7 +108,7 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
 * [WEI,Wei(魏伟)](https://www.douban.com/note/558790908/):Associate Professor in East China Normal University. Mainly focus on sociology.
 * [FANG,Gang(方刚)](https://baike.baidu.com/item/方刚/9478294?fr=aladdin): Associate Professor in Beijing Foresty Univeristy. He mainly focus on psychology and gender study.
 
- (...to be updated)
+ [more](.yanjiu.md)
 
 
 ## Useful Links:

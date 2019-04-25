@@ -1,5 +1,5 @@
 # 同志教师劳动权及就业平等权案
-# Gay teacher sues employer after getting fired for sexual orientation
+**Gay teacher sues employer after getting fired for sexual orientation**
 
 自2018年明珏提起诉讼以来，同志教师劳动权第一案逐渐进入人们视野。本文将本案的主要的时间线以及现有的报道进行汇总。
 
@@ -7,7 +7,7 @@ Since Mingjue brought a lawsuit against his employer who dismissed him due to hi
 
 <!-- more -->
 
-## 案情简介/Case Brief
+## 背景案情|Background
 
 ### 2017年/2017
 
@@ -33,7 +33,7 @@ On August 5, 2018, Mingjue shared the article about the ceremony above, with the
 
 Wei said that he communicated with Mingjue the next day and ask him to make a choice, either as a teacher and never to promote personal preferences, or to resign. At last, Ming Yu wrote his resignation letter, expressing that he had resigned for personal reasons. Mingjue confirmed the existence of this resignation letter, but claimed that as he was forced to resign, it was actually "disguised dismissal".
 
-## 诉讼进程/Procedure
+## 诉讼进程|Legal Process
 
 ### 2018年9月19日/September 19, 2018
 
@@ -81,7 +81,7 @@ Mingjue filed on the grounds of disputes over equal rights to work and was confi
 
 ……
 
-## 相关报道/Media Coverage and Comments
+## 相关报道|Media Coverage and Comments
 
 ### 2018年
 
