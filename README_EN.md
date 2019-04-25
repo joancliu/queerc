@@ -108,7 +108,7 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
 * [WEI,Wei(魏伟)](https://www.douban.com/note/558790908/):Associate Professor in East China Normal University. Mainly focus on sociology.
 * [FANG,Gang(方刚)](https://baike.baidu.com/item/方刚/9478294?fr=aladdin): Associate Professor in Beijing Foresty Univeristy. He mainly focus on psychology and gender study.
 
- [more](.yanjiu.md)
+ [more](./yanjiu.md)
 
 
 ## Useful Links:
