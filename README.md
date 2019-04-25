@@ -55,7 +55,7 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
 * 污名化教材京东及出版社产品质量纠纷
   * 关键词：同性恋，污名化教材、暨南大学出版社、京东
   * 案由：产品责任纠纷
-  * 结果：
+  * 结果：进行中
 
 #### 2018
 * [Gay teacher sues employer after getting fired for sexual orientation](./mingjue.md)
@@ -78,9 +78,8 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
 
 ### NGOs
 
-* [同语](http://mp.weixin.qq.com/profile?src=3&timestamp=1556127745&ver=1&signature=c4u9Qss7WdRLhayYJWZOLXQZAHRWEAAycQSlN6u00I1QLCLLF0670U4iDzK7js1J2Z13DnJRA7IjLgEFnAAzmw==)
-* [爱白](http://mp.weixin.qq.com/profile?src=3&timestamp=1556128068&ver=1&signature=yju9ejIXaXFfipNr6poCDEKulHGx2LZwnrED304MJ*yVi1Y8m1w3lJVIORWzhNBcgXio5zdTgQIA*bBJ44XjaQ==)
-* [LGBT权促会](http://mp.weixin.qq.com/profile?src=3&timestamp=1556128118&ver=1&signature=nV3D416zEDlX-ye-yFgc0IdjeNdN1mpPH1HIawjcHJDcGBtGjHdacxV3Tktx3Oa019EastHDUQUu-VeD53Bbpg==)
+* 同语
+* LGBT权促会
 
 (...to be updated)
 
