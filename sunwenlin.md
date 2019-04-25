@@ -34,6 +34,6 @@
 * [China Gears Up To Hear Its First Same-Sex Marriage Case - HuffPost](https://www.huffpost.com/entry/china-same-sex-marriage-sun-wenlin_n_56aa839ee4b0010e80e94de0)
 * [China court refuses to allow gay marriage in landmark case - The Guardian](https://www.theguardian.com/world/2016/apr/13/china-court-refuse-gay-marriage-landmark-case)
 * [Judge Rules Against Same-Sex Marriage in China - The Atlantic](https://www.theatlantic.com/international/archive/2016/04/china-gay-marriage/478029/)
-* [Judge Rules Against Couple in China's First Same-Sex Marriage Case](https://www.nbcnews.com/news/china/judge-rules-against-couple-china-s-first-same-sex-marriage-n555146)
+* [Judge Rules Against Couple in China's First Same-Sex Marriage Case - NBCNews](https://www.nbcnews.com/news/china/judge-rules-against-couple-china-s-first-same-sex-marriage-n555146)
 
 
