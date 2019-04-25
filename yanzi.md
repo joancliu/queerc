@@ -36,20 +36,20 @@
 
 ## 相关报道|Media Coverage and Comments
 
-* [同性恋者诉百度矫治广告侵权 法院立案|财新  ](http://china.caixin.com/2014-05-15/100677721.html?code=0&msg=第三方登录成功+)
-* [同性恋者诉百度矫治广告侵权案开庭 | 财新](http://china.caixin.com/2014-08-01/100711856.html)
-* [首例“矫正同性恋”案在京审理，诊所被指有“三大罪状” | 澎湃  ](http://news.163.com/14/0802/06/A2KGU3GA00014SEH.html)
-* [电击“治疗”同性恋被判公开道歉 |北青网 ](http://news.hexun.com/2014-12-21/171625602.html)
-* [专访首例“同性恋矫正案”胜诉者：我们要的不是同情 |凤凰网 ](http://news.ifeng.com/a/20141221/42765163_0.shtml)
-* [同性恋者获赔偿 | 北京晚报](http://news.ifeng.com/a/20141221/42764577_0.shtml)
-* [中国首例同性恋矫正案宣判 原告胜诉|澎湃 ](http://news.163.com/14/1219/19/ADRON5UI00014SEH.html)
+* [同性恋者诉百度矫治广告侵权 法院立案 - 财新](http://china.caixin.com/2014-05-15/100677721.html?code=0&msg=第三方登录成功+)
+* [同性恋者诉百度矫治广告侵权案开庭 - 财新](http://china.caixin.com/2014-08-01/100711856.html)
+* [首例“矫正同性恋”案在京审理，诊所被指有“三大罪状” - 澎湃](http://news.163.com/14/0802/06/A2KGU3GA00014SEH.html)
+* [电击“治疗”同性恋被判公开道歉 - 北青网](http://news.hexun.com/2014-12-21/171625602.html)
+* [专访首例“同性恋矫正案”胜诉者：我们要的不是同情 - 凤凰](http://news.ifeng.com/a/20141221/42765163_0.shtml)
+* [同性恋者获赔偿 - 北京晚报](http://news.ifeng.com/a/20141221/42764577_0.shtml)
+* [中国首例同性恋矫正案宣判 原告胜诉 - 澎湃](http://news.163.com/14/1219/19/ADRON5UI00014SEH.html)
 * [Clinic, Baidu on trial over gay ‘conversion’ in landmark case - Global Times](http://www.globaltimes.cn/content/873733.shtml)
 * [China court accepts 'gay conversion therapy' case - BBC News](https://www.bbc.com/news/blogs-china-blog-27498288)
 * [China Court to Hear First Gay Conversion Therapy Case - The Atlantic](https://www.theatlantic.com/international/archive/2014/07/china-court-to-hear-first-gay-conversion-therapy-case/375382/)
-* [Chinese man sues clinic for gay conversion therapy, web giant Baidu for advertising it | Fox News](https://www.foxnews.com/world/chinese-man-sues-clinic-for-gay-conversion-therapy-web-giant-baidu-for-advertising-it)
+* [Chinese man sues clinic for gay conversion therapy, web giant Baidu for advertising it - Fox News](https://www.foxnews.com/world/chinese-man-sues-clinic-for-gay-conversion-therapy-web-giant-baidu-for-advertising-it)
 * [Chinese Man Sues After Getting Electroshock Therapy to ‘Cure’ Homosexuality - Newsweek](https://www.newsweek.com/chinese-man-sues-after-getting-electro-shock-therapy-cure-homosexuality-262370)
 * [Chinese Court Sides With Gay Man in ‘Conversion’ Suit - The New York Times](https://www.nytimes.com/2014/12/20/world/asia/chinese-court-sides-with-gay-man-against-clinic-that-tried-to-convert-him.html)
-* [Gay man sues China’s largest search engine for promoting conversion therapy | ILGA](https://ilga.org/gay-man-sues-china-s-largest-search-engine-for-promoting-conversion-therapy)
+* [Gay man sues China’s largest search engine for promoting conversion therapy - ILGA](https://ilga.org/gay-man-sues-china-s-largest-search-engine-for-promoting-conversion-therapy)
 * [Court orders apology for gay cure scam - China - Chinadaily.com.cn](http://www.chinadaily.com.cn/china/2014-12/20/content_19131311.htm)
 
 
