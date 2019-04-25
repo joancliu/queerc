@@ -16,7 +16,7 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
 
 #### Overview
 
-<iframe id="embed_dom" name="embed_dom" frameborder="0" style="display:block;width:525px; height:245px;" src="https://www.processon.com/embed/5cc20886e4b0841b8440257c"></iframe>
+![Overview of LGBT Impact Litigation](http://assets.processon.com/chart_image/5cc20886e4b0841b8440257f.png)
 
 #### 2014
 **[China Court Ruled in Favor of A Gay Man in The First Gay Conversion Therapy Case](./yanzi.md)**
