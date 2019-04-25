@@ -15,6 +15,7 @@
 ### 公益诉讼
 
 #### 概览
+![](http://assets.processon.com/chart_image/5cc20886e4b0841b8440257f.png)
 
 <iframe id="embed_dom" name="embed_dom" frameborder="0" style="display:block;width:105px; height:49px;" src="https://www.processon.com/embed/5cc20886e4b0841b8440257c"></iframe>
 
