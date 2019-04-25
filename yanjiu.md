@@ -15,6 +15,7 @@
 * [Elaine Jeffreys - University of Technology Sydney](https://www.uts.edu.au/staff/elaine.jeffreys)  Professor, School of International Studies
 * [Elisabeth L Engebretsen - University of Stavanger](https://stavanger.academia.edu/ElisabethEngebretsen/)  Associate professor of gender studies
 * [Timothy Hildebrandt - London School of Economics & Political Science](http://www.lse.ac.uk/social-policy/people/academic-staff/Dr-Timothy-Hildebrandt) Associate Professor, Department of Social Policy
+
 (……等待更新)
  
 
@@ -25,8 +26,6 @@ _**一个不错的豆瓣书单：[Queer "China" and queer sinophone](https://www
 * 郭晓飞：[中国法视野下的同性恋 ](https://book.douban.com/subject/2161944/)
 * Elisabeth L. Engebretsen: [Queer/Tongzhi China](https://book.douban.com/subject/26725049/)
 * Siodhbhra Parkin: [LGBT Rights-Focused Legal Advocacy in China: The Promise, and Limits, of Litigation](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=2718&context=ilj)
-
-
 
 (...等待更新)
 
