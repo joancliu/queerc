@@ -18,16 +18,16 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
   * Keywords: gay, conversion therapy, phychological counselling center, Baidu
   * Cause of Action: Infringement of the right of health body and the general right of personality 
   * Result: won on 19 December 2014
-* [小红帽性倾向就业歧视案](./xiaotaiyang.md)
+* [First Case of Discrimination Based on Sexual Orientation in Workplace](./xiaohongmao.md)
   * Keywords: gay, discrimination, workplace
   * Cause of Action：labor dispute
   * Result：lost on 27 Feburary 2015
 
 #### 2015
-* [同性电影下架导演诉广电总局](./fanpopo.md)
-  * 关键词：同性恋、电影、广电总局
-  * 案由：信息公开行政诉讼
-  * 结果：胜诉，2015年12月22日
+* [Gay Director Sued the Censors Who banned his film](./fanpopo.md)
+  * Keywords：gay, film, censorship
+  * Cause of Action：administrative litigation because of information disclosure 
+  * Result：won on 22 December 2015
 * [教材同性恋污名化秋白诉教育部](./qiubai.md)
   * 关键词：同性恋、污名化教材、教育部
   * 案由：行政复议行政诉讼
@@ -42,7 +42,7 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
   * 结果：败诉，2016年4月13日
 
 #### 2016
-* 跨性别就业歧视案
+* [C先生跨性别就业歧视案](./cxiansheng.md)
   * 关键词：跨性别，就业歧视
   * 案由：劳动争议和一般人格权纠纷
   * 结果：胜诉，2018年2月4日

@@ -1,0 +1,499 @@
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+<title>Impact Litigations</title><link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857143; overflow-x: hidden; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; tab-size: 4; background-position: inherit inherit; background-repeat: inherit inherit; }
+iframe { margin: auto; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; word-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 40px; }
+#write.first-line-indent p { text-indent: 2em; }
+#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li { margin-left: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+@media screen and (max-width: 500px) { 
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  #write { padding-left: 20px; padding-right: 20px; }
+  .CodeMirror-sizer { margin-left: 0px !important; }
+  .CodeMirror-gutters { display: none !important; }
+}
+#write li > figure:first-child { margin-top: -20px; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; }
+button, input, select, textarea { color: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant-caps: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 2; }
+p { orphans: 4; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.701961); color: rgb(85, 85, 85); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px !important; }
+tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 32px; }
+.CodeMirror-gutters { border-right-width: 0px; background-color: inherit; }
+.CodeMirror-linenumber { }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+#write pre { white-space: pre-wrap; }
+#write.fences-no-line-wrapping pre { white-space: pre; }
+#write pre.ty-contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; position: relative !important; background-position: inherit inherit; background-repeat: inherit inherit; }
+.md-diagram-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+#write .md-fences.mock-cm { white-space: pre-wrap; }
+.md-fences.md-fences-with-lineno { padding-left: 0px; }
+#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
+.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
+.CodeMirror-line, twitterwidget { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; background-position: 0px 0px; background-repeat: initial initial; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+#write .footnote-line { white-space: pre-wrap; }
+@media print { 
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid-page; break-before: avoid-page; }
+  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
+  .typora-export * { -webkit-print-color-adjust: exact; }
+  html.blink-to-pdf { font-size: 13px; }
+  .typora-export #write { padding-left: 32px; padding-right: 32px; padding-bottom: 0px; break-after: avoid-page; }
+  .typora-export #write::after { height: 0px; }
+  @page { margin: 20mm 0px; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background-color: rgb(204, 204, 204); display: block; overflow-x: hidden; background-position: initial initial; background-repeat: initial initial; }
+p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+p > .md-image:only-child { display: inline-block; width: 100%; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.md-math-block { width: 100%; }
+.md-math-block:not(:empty)::after { display: none; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { text-decoration: underline; }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) { 
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, samp, tt { font-family: var(--monospace); }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background-color: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; background-position: initial initial; background-repeat: initial initial; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.8; font-family: var(--monospace); }
+code { text-align: left; }
+a.md-print-anchor { white-space: pre !important; border: none !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; text-shadow: initial !important; background-position: 0px 0px !important; background-repeat: initial initial !important; }
+.md-inline-math .MathJax_SVG .noError { display: none !important; }
+.html-for-mac .inline-math-svg .MathJax_SVG { vertical-align: 0.2px; }
+.md-math-block .MathJax_SVG_Display { text-align: center; margin: 0px; position: relative; text-indent: 0px; max-width: none; max-height: none; min-height: 0px; min-width: 100%; width: auto; overflow-y: hidden; display: block !important; }
+.MathJax_SVG_Display, .md-inline-math .MathJax_SVG_Display { width: auto; margin: inherit; display: inline-block !important; }
+.MathJax_SVG .MJX-monospace { font-family: var(--monospace); }
+.MathJax_SVG .MJX-sans-serif { font-family: sans-serif; }
+.MathJax_SVG { display: inline; font-style: normal; font-weight: 400; line-height: normal; zoom: 90%; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; }
+.MathJax_SVG * { transition: none; }
+.MathJax_SVG_Display svg { vertical-align: middle !important; margin-bottom: 0px !important; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="mermaid"] svg, [lang="flow"] svg { max-width: 100%; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom-width: 0px; }
+video { max-width: 100%; display: block; margin: 0px auto; }
+iframe { max-width: 100%; width: 100%; border: none; }
+.highlight td, .highlight tr { border: 0px; }
+
+
+:root {
+    --side-bar-bg-color: #fafafa;
+    --control-text-color: #777;
+}
+
+@include-when-export url(https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: "Open Sans","Clear Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: rgb(51, 51, 51);
+    line-height: 1.6;
+}
+
+#write {
+    max-width: 860px;
+  	margin: 0 auto;
+  	padding: 30px;
+    padding-bottom: 100px;
+}
+#write > ul:first-child,
+#write > ol:first-child{
+    margin-top: 30px;
+}
+
+a {
+    color: #4183C4;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    position: relative;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    line-height: 1.4;
+    cursor: text;
+}
+h1:hover a.anchor,
+h2:hover a.anchor,
+h3:hover a.anchor,
+h4:hover a.anchor,
+h5:hover a.anchor,
+h6:hover a.anchor {
+    text-decoration: none;
+}
+h1 tt,
+h1 code {
+    font-size: inherit;
+}
+h2 tt,
+h2 code {
+    font-size: inherit;
+}
+h3 tt,
+h3 code {
+    font-size: inherit;
+}
+h4 tt,
+h4 code {
+    font-size: inherit;
+}
+h5 tt,
+h5 code {
+    font-size: inherit;
+}
+h6 tt,
+h6 code {
+    font-size: inherit;
+}
+h1 {
+    padding-bottom: .3em;
+    font-size: 2.25em;
+    line-height: 1.2;
+    border-bottom: 1px solid #eee;
+}
+h2 {
+   padding-bottom: .3em;
+    font-size: 1.75em;
+    line-height: 1.225;
+    border-bottom: 1px solid #eee;
+}
+h3 {
+    font-size: 1.5em;
+    line-height: 1.43;
+}
+h4 {
+    font-size: 1.25em;
+}
+h5 {
+    font-size: 1em;
+}
+h6 {
+   font-size: 1em;
+    color: #777;
+}
+p,
+blockquote,
+ul,
+ol,
+dl,
+table{
+    margin: 0.8em 0;
+}
+li>ol,
+li>ul {
+    margin: 0 0;
+}
+hr {
+    height: 2px;
+    padding: 0;
+    margin: 16px 0;
+    background-color: #e7e7e7;
+    border: 0 none;
+    overflow: hidden;
+    box-sizing: content-box;
+}
+
+li p.first {
+    display: inline-block;
+}
+ul,
+ol {
+    padding-left: 30px;
+}
+ul:first-child,
+ol:first-child {
+    margin-top: 0;
+}
+ul:last-child,
+ol:last-child {
+    margin-bottom: 0;
+}
+blockquote {
+    border-left: 4px solid #dfe2e5;
+    padding: 0 15px;
+    color: #777777;
+}
+blockquote blockquote {
+    padding-right: 0;
+}
+table {
+    padding: 0;
+    word-break: initial;
+}
+table tr {
+    border-top: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 0;
+}
+table tr:nth-child(2n),
+thead {
+    background-color: #f8f8f8;
+}
+table tr th {
+    font-weight: bold;
+    border: 1px solid #dfe2e5;
+    border-bottom: 0;
+    text-align: left;
+    margin: 0;
+    padding: 6px 13px;
+}
+table tr td {
+    border: 1px solid #dfe2e5;
+    text-align: left;
+    margin: 0;
+    padding: 6px 13px;
+}
+table tr th:first-child,
+table tr td:first-child {
+    margin-top: 0;
+}
+table tr th:last-child,
+table tr td:last-child {
+    margin-bottom: 0;
+}
+
+.CodeMirror-lines {
+    padding-left: 4px;
+}
+
+.code-tooltip {
+    box-shadow: 0 1px 1px 0 rgba(0,28,36,.3);
+    border-top: 1px solid #eef2f2;
+}
+
+.md-fences,
+code,
+tt {
+    border: 1px solid #e7eaed;
+    background-color: #f8f8f8;
+    border-radius: 3px;
+    padding: 0;
+    padding: 2px 4px 0px 4px;
+    font-size: 0.9em;
+}
+
+code {
+    background-color: #f3f4f4;
+    padding: 0 2px 0 2px;
+}
+
+.md-fences {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-top: 8px;
+    padding-bottom: 6px;
+}
+
+
+.md-task-list-item > input {
+  margin-left: -1.3em;
+}
+
+@media print {
+    html {
+        font-size: 13px;
+    }
+    table,
+    pre {
+        page-break-inside: avoid;
+    }
+    pre {
+        word-wrap: break-word;
+    }
+}
+
+.md-fences {
+	background-color: #f8f8f8;
+}
+#write pre.md-meta-block {
+	padding: 1rem;
+    font-size: 85%;
+    line-height: 1.45;
+    background-color: #f7f7f7;
+    border: 0;
+    border-radius: 3px;
+    color: #777777;
+    margin-top: 0 !important;
+}
+
+.mathjax-block>.code-tooltip {
+	bottom: .375rem;
+}
+
+.md-mathjax-midline {
+    background: #fafafa;
+}
+
+#write>h3.md-focus:before{
+	left: -1.5625rem;
+	top: .375rem;
+}
+#write>h4.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+#write>h5.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+#write>h6.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+.md-image>.md-meta {
+    /*border: 1px solid #ddd;*/
+    border-radius: 3px;
+    padding: 2px 0px 0px 4px;
+    font-size: 0.9em;
+    color: inherit;
+}
+
+.md-tag {
+    color: #a7a7a7;
+    opacity: 1;
+}
+
+.md-toc { 
+    margin-top:20px;
+    padding-bottom:20px;
+}
+
+.sidebar-tabs {
+    border-bottom: none;
+}
+
+#typora-quick-open {
+    border: 1px solid #ddd;
+    background-color: #f8f8f8;
+}
+
+#typora-quick-open-item {
+    background-color: #FAFAFA;
+    border-color: #FEFEFE #e5e5e5 #e5e5e5 #eee;
+    border-style: solid;
+    border-width: 1px;
+}
+
+/** focus mode */
+.on-focus-mode blockquote {
+    border-left-color: rgba(85, 85, 85, 0.12);
+}
+
+header, .context-menu, .megamenu-content, footer{
+    font-family: "Segoe UI", "Arial", sans-serif;
+}
+
+.file-node-content:hover .file-node-icon,
+.file-node-content:hover .file-node-open-state{
+    visibility: visible;
+}
+
+.mac-seamless-mode #typora-sidebar {
+    background-color: #fafafa;
+    background-color: var(--side-bar-bg-color);
+}
+
+.md-lang {
+    color: #b4654d;
+}
+
+.html-for-mac .context-menu {
+    --item-hover-bg-color: #E6F0FE;
+}
+
+#md-notification .btn {
+    border: 0;
+}
+
+.dropdown-menu .divider {
+    border-color: #e5e5e5;
+}
+
+ .typora-export li, .typora-export p, .typora-export,  .footnote-line {white-space: normal;} 
+</style>
+</head>
+<body class='typora-export' >
+<div  id='write'  class = 'is-mac'><p>In the last 5 years, LGBT+ people in China witnessed highs and lows, or we have developed a new perspective on how to views. There are times when you sow, plough and harvest. Hope the seeds they sowed and ploughed in the past 5 years, will give us a plentiful harvest in the future.</p><p>　　 Like love we often weep, 
+　　　　　　 Like love we seldom keep. </p><div class='md-toc' mdtype='toc'><p class="md-toc-content"><span class="md-toc-item md-toc-h2" data-ref="n8"><a class="md-toc-inner" style="" href="#header-n8">2014</a></span><span class="md-toc-item md-toc-h3" data-ref="n9"><a class="md-toc-inner" style="" href="#header-n9">扭转治疗民事侵权</a></span><span class="md-toc-item md-toc-h3" data-ref="n163"><a class="md-toc-inner" style="" href="#header-n163">就业歧视一般人格权诉讼案</a></span><span class="md-toc-item md-toc-h2" data-ref="n15"><a class="md-toc-inner" style="" href="#header-n15">2015</a></span><span class="md-toc-item md-toc-h3" data-ref="n16"><a class="md-toc-inner" style="" href="#header-n16">范坡坡诉广电总局信息公开行政诉讼案</a></span><span class="md-toc-item md-toc-h3" data-ref="n27"><a class="md-toc-inner" style="" href="#header-n27">污名化教材教育部行政复议行政诉讼案</a></span><span class="md-toc-item md-toc-h3" data-ref="n41"><a class="md-toc-inner" style="" href="#header-n41">驻马店扭转治疗人身自由权案</a></span><span class="md-toc-item md-toc-h3" data-ref="n55"><a class="md-toc-inner" style="" href="#header-n55">同性婚姻登记行政行为行政诉讼案</a></span><span class="md-toc-item md-toc-h2" data-ref="n69"><a class="md-toc-inner" style="" href="#header-n69">2016</a></span><span class="md-toc-item md-toc-h3" data-ref="n77"><a class="md-toc-inner" style="" href="#header-n77">C先生性别就业歧视劳动争议及一般人格权民事诉讼案</a></span><span class="md-toc-item md-toc-h2" data-ref="n98"><a class="md-toc-inner" style="" href="#header-n98">2017</a></span><span class="md-toc-item md-toc-h3" data-ref="n99"><a class="md-toc-inner" style="" href="#header-n99">广电总局《网络视听节目内容审核通则》信息公开及行政复议行政诉讼案</a></span><span class="md-toc-item md-toc-h3" data-ref="n117"><a class="md-toc-inner" style="" href="#header-n117">污名化教材京东及出版社产品质量纠纷</a></span><span class="md-toc-item md-toc-h2" data-ref="n124"><a class="md-toc-inner" style="" href="#header-n124">2018</a></span><span class="md-toc-item md-toc-h3" data-ref="n135"><a class="md-toc-inner" style="" href="#header-n135">同性教师劳动权及就业平等权一案</a></span><span class="md-toc-item md-toc-h3" data-ref="n150"><a class="md-toc-inner" style="" href="#header-n150"></a></span></p></div><h2><a name='header-n8' class='md-header-anchor '></a>2014</h2><h3><a name='header-n9' class='md-header-anchor '></a>扭转治疗民事侵权</h3><ul><li>同性恋者小振（化名）迫于父母压力，到重庆心语飘香寻求帮助，受到电击治疗。小振认为同性恋不是病，不需要扭转治疗，遂将心理中心及为该中心做推广的北京百度网讯科技有限公司（以下简称百度）诉至法院索赔。</li><li>2014年12月19日，北京市海淀区人民法院判决给原告实施电击“治疗”的重庆“心语飘香心理咨询中心”公开道歉并赔偿经济损失。判决书显示，“同性恋并非精神疾病，心语中心承诺可以进行治疗亦属虚假宣传。”（京华时报《我国首例电击治同性恋案宣判》）</li></ul><p>&nbsp;</p><h3><a name='header-n163' class='md-header-anchor '></a>就业歧视一般人格权诉讼案</h3><p>&nbsp;</p><p>&nbsp;</p><h2><a name='header-n15' class='md-header-anchor '></a>2015</h2><h3><a name='header-n16' class='md-header-anchor '></a>范坡坡诉广电总局信息公开行政诉讼案</h3><ul><li>范坡坡导演于2012年创作的同性恋纪录片，名为《彩虹伴我心》，讲述母亲如何接纳孩子性取向的故事。但是2014年12月，这部纪录片在视频网站全部下架。据相关视频网站称，是广电总局的文件通知删除该纪录片，而在范坡坡联系广电总局后得到回复称并不存在屏蔽纪录片的情况。</li><li>2015年2月12日，同性恋题材纪录片导演范坡坡因为导演作品《彩虹伴我心》被各大网站删除，向广电总局寄出信息公开申请信询问删除理由。</li><li>2015年9月8日，范坡坡委托其代理律师王振宇向第一中级人民法院递交了诉讼材料，向法院提出四项请求：确认被诉答复违法；撤销被诉答复；限期被告重新作出答复，向原告公开相关政府信息；被告承担诉讼费。</li><li>法院于2015年9月14日正式立案。12月22日，北京第一中级人民法院对导演范坡坡起诉广电总局一案做出一审判决，认定广电总局对于下架范坡坡导演的同性恋题材纪录片《彩虹伴我心》的公开回复违法，同时驳回了范坡坡的其它诉讼请求，广电总局支付诉讼费用50元。这是中国第一起起诉广电总局获立案并认定总局违法的案子。范坡坡拿到判决书后在社交媒体上表示，简单说胜诉其实也不准确，用律师的话说“赢了一半”。法院判决“国家新闻出版广电总局”违法的原因在于答复的主体不对，本来应为“总局”，而实际回复加盖公章为“总局办公厅综合处”；针对总局的具体回复内容，法院则肯定其合理性。也就说法院认可总局并没有相关文件屏蔽我的视频</li></ul><p>&nbsp;</p><h3><a name='header-n27' class='md-header-anchor '></a>污名化教材教育部行政复议行政诉讼案</h3><ul><li>2015年3月19日，秋白联名十余名同学向国家新闻出版总署和广东省教育厅分别递交举报信，反映广东高等教育出版社出版的多种教材存在大量“污名”同性恋的错误内容。</li><li>2015年5月，秋白通过EMS向教育部寄送信息公开申请表，内容为“教育部对高校使用教材的监管职能是什么？”但由于教育部未及时回复，秋白最后通过一纸诉状，将教育部告上法庭，8月14日，北京市第一中级人民法院立案。<a href='https://m.thepaper.cn/newsDetail_forward_1366994?from=singlemessage&isappinstalled=0'>澎湃</a></li><li><strong>2016年初</strong>，包括秋白在内各地80多名大学生分别实名向教育部举报教科书中对同性恋的错误描述。2个月的回复期限过去后，没有一个人收到任何答复。</li><li><strong>2016年5月16日</strong>，秋白向教育部申请行政复议不被受理。教育部一次次行政不作为，对学子诉求置若罔闻，秋白决定再拿起法律武器，再次状告教育部。</li><li><strong>2016年6月14日</strong>，北京市第一中级人民法院终于受理该案件。2016年9月12日，开庭审理，后败诉<a href='https://mp.weixin.qq.com/s/BxltZPYCvVJOAqX23XZiJw' target='_blank' class='url'>https://mp.weixin.qq.com/s/BxltZPYCvVJOAqX23XZiJw</a></li><li>2 March 2017, Beijing High Court Lost</li></ul><h3><a name='header-n41' class='md-header-anchor '></a>驻马店扭转治疗人身自由权案</h3><ul><li>2016年5月17日，余虎委托其代理律师，向河南省驻马店驿城区人民法院提起了诉讼，<strong>状告驻马店市精神病医院侵犯其人身自由、对其进行强制治疗。</strong>这一天，刚好是世界卫生组织将同性恋、双性恋从精神疾病分类手册中去除26周年。<strong></strong></li><li>2016年6月13日，驻马店驿城区人民法院正式宣布立案。</li><li>2017年5月12日开庭审理。河南省驿城区人民法院作出一审判决，裁定驻马店市精神病院强制医疗的行为违法，判令医院在市级刊物公开道歉，并赔偿原告余虎（化名）精神损失费5000元。<a href='https://mp.weixin.qq.com/s/v9f0VGKsD3Y0_GJyFGJjtg'>艰难的胜诉 | 同性恋被精神病案</a></li><li>2019年2月18日，行政机关认定违法<a href='https://mp.weixin.qq.com/s/214_w-PFki0aCUUHaezghw' target='_blank' class='url'>https://mp.weixin.qq.com/s/214_w-PFki0aCUUHaezghw</a></li></ul><h3><a name='header-n55' class='md-header-anchor '></a>同性婚姻登记行政行为行政诉讼案</h3><ul><li>2015年6月23日，男性同性恋者孙文麟、胡明亮到芙蓉区民政局办理结婚登记，工作人员以二人申请结婚登记不符合《中华人民共和国婚姻法》规定的法定结婚条件，拒绝办理。孙文麟、胡明亮遂以“不服婚姻登记行政行为”为由起诉该民政局，要求法院判令民政局对他们二人予以登记结婚。</li><li>2016年4月13日，此案在湖南长沙芙蓉区人民法院开庭审理，法院当庭宣判：孙文麟，胡明亮败诉，驳回原告请求。（中国法院网《长沙“男同”申请结婚登记被拒状告民政局，法院一审判决驳回诉讼请求》）</li><li>2016年4月13日，湖南长沙芙蓉区人民法院就孙文麟、胡明亮与长沙市芙蓉区民政局行政违法一案公开开庭审理，经过3个多小时的庭审，最终法院认为长沙市芙蓉区民政局拒绝为同性的孙文麟、胡明亮办理结婚登记符合法律规定，驳回孙文麟、胡明亮的诉讼请求。至此，被誉为<strong>中国同性恋婚姻维权第一案</strong>暂告一段落。</li><li>由中国人民大学宪法与行政法治研究中心发起，旨在借助个案研讨，在全社会弘扬宪政精神，增强宪政理念的年度评选活动12月30日在人民大学举办发布会，中国首例同性婚姻诉讼案被评为2016中国十大宪法案例之一。</li></ul><p>&nbsp;</p><h2><a name='header-n69' class='md-header-anchor '></a>2016</h2><p>&nbsp;</p><h3><a name='header-n77' class='md-header-anchor '></a>C先生性别就业歧视劳动争议及一般人格权民事诉讼案</h3><ul><li><strong>2016年3月7日</strong>，贵州省贵阳市云岩区劳动仲裁委员会受理跨性别者C先生（化名）就贵阳慈铭健康体检中心有限公司就业歧视的劳动仲裁申请，<strong>中国第一起跨性别就业歧视维权案</strong>开始进入程序。2015年4月21日，C先生经慈铭公司员工杨某介绍入职慈铭，从事销售工作。不料仅仅过去几天，慈铭公司就将C先生辞退。C先生很不解，经过向杨某了解情况才得知，<strong>慈铭公司人事主管金某认为C先生的情况是“身心不健康”“觉得不正常”</strong>。</li></ul><ul><li>贵阳市云岩区劳动人事争议仲裁院出具开庭通知书，决定将于4月11日开庭审理此案。在5月10日，法庭宣判小陈败诉。小陈及其律师黄沙表示将继续上诉。</li><li>2016年6月17日，该案劳动争议案件开庭，C先生一方认为慈铭公司提供的一系列用于证明其工作表现不佳的证据系伪造，提出鉴定。2016年11月4日，因鉴定材料与对比样本上红色印文非同一油印而终止鉴定。12月，劳动争议纠纷案再次开庭，这一次原被告双方在证据问题上进行了激烈的辩论，C先生一方还申请了中国政法大学刘小楠教授作为专家辅助人出庭。</li><li><strong>2016年12月18日，法院作出判决，认定原被告发生争议是在劳动合同而非试用期内，所谓“试用期表现不合格”不能成立，判决“被告违反劳动合同法的规定解除与原告劳动关系应支付原告工资483元，经济赔偿金1500元</strong>。”</li><li>2017年4月20日，一般人格权争议纠纷案开庭，C先生一方诉请慈铭公司赔偿精神抚慰金并且公开赔礼道歉，并且申请了西南财经大学何霞副教授出庭作为专家辅助人，对歧视、就业歧视、性别认同、性别表达、性别歧视等多项相关问题进行阐明。</li><li><strong>2017年7月26日，该案迎来了一项重要的判决：法院认定被告侵犯了原告的平等就业权，无正当理由解除与原告的劳动合同构成差别对待，判决被告赔偿精神抚慰金2000元。这一判决是我国第一起多元性别群体就业歧视案在一般人格权层面的胜诉。</strong>但遗憾的是，该判决并未支持公开赔礼道歉的诉讼请求。26 July 2017, Guiyang Yungang District  Court decided in favor of C</li><li>2017年11月13日，中国首例跨性别就业歧视案一般人格权纠纷二审在贵阳市中院开庭，由三位女法官组成合议庭审理。C先生一方由邱恒榆律师担任诉讼代理人，被上诉人（原审被告）本人缺席，只有诉讼代理人到场。值得一提的是，还有多位来自多元性别社群和法学界的伙伴们特意前往现场旁听。庭审进行得十分顺利，被上诉人（原审被告）诉讼代理人在宣读完答辩状之后便没有再发表意见。而<strong>上诉人诉讼代理人邱恒榆律师</strong>则提供了大量证据，用以证明慈铭公司存在着性别歧视的行为：从公司员工杨某转述人事主管金某的“身心不健康”的评论，到金某亲自在接受媒体采访时表示（C先生）“不着工装”（该处指女式工装）、“违反了规章制度”。并且点出慈铭公司后来坚持的“工作表现不佳”只是掩饰其实施性别认同歧视行为真实的目的。13 November 2017 Guiyang Middle Court heard the appeal</li><li>2018年2月4日，C先生收到了这份终审判决，法庭认为C先生自己的性别认同与表达应当依法受到保护与尊重，但其认为慈铭公司的行为对其构成性别歧视的主张因证据不充分不予支持。故维持原判。4 February 2018 Court decided in favor of Mr.C</li></ul><p><a href='https://mp.weixin.qq.com/s/tHjRsaxai9NwG-emAe2g3w'>时间线</a></p><p>&nbsp;</p><h2><a name='header-n98' class='md-header-anchor '></a>2017</h2><h3><a name='header-n99' class='md-header-anchor '></a>广电总局《网络视听节目内容审核通则》信息公开及行政复议行政诉讼案</h3><ul><li><p>2017年6月30日，中国网络视听节目服务协会通过了《网络视听节目内容审核通则》（以下简称《通则》），其中第八条将同性恋界定为<strong>“表现和展示非正常性关系、性行为”的“渲染淫秽色情和低级庸俗趣味”的“应予删除”的内容。</strong>30 June 2017, Commission Passed Guideline</p></li><li><p>2017年7月，同志社群和友同人士向协会和广电总局提起信息公开申请；July 2017, Applied for disclosure,16 August 2017, applied for administrative review</p></li><li><p>2018年1月3日，北京市第一中级人民法院正式对“《网络视听节目内容审核通则》涉歧视同性恋一案”（以下简称“《通则》案”）立案（<a href='http://mp.weixin.qq.com/s?__biz=MjM5NTg5OTE0NA==&mid=2653691855&idx=1&sn=d1448579ffcad2efe569038c6cae067c&chksm=bd29cda88a5e44be5284bde98051ec3079b362d1bd6cf6af109ca82fb0af7c298680fd9c5d2e&scene=21#wechat_redirect'>点击这里查看：</a><a href='http://mp.weixin.qq.com/s?__biz=MjM5NTg5OTE0NA==&mid=2653691855&idx=1&sn=d1448579ffcad2efe569038c6cae067c&chksm=bd29cda88a5e44be5284bde98051ec3079b362d1bd6cf6af109ca82fb0af7c298680fd9c5d2e&scene=21#wechat_redirect'>终于有人对‘通则’歧视同性恋提起诉讼！</a>）；</p></li><li><p>2018年2月23日，“《通则》案”开庭审理，被告国家新闻出版广电总局及涉事的网络视听协会出席庭审。广电总局承认中国没有歧视同性恋的相关法律、政策依据，<strong>但否认与该通则的制定有关</strong>（<a href='http://mp.weixin.qq.com/s?__biz=MjM5NTg5OTE0NA==&mid=2653691946&idx=1&sn=2c51fcd58c8423a4fae4e141c6643d86&chksm=bd29f24d8a5e7b5b5f047cee6684b775c295f0474c2815daa43c24ef1f78f68d1efc6061e498&scene=21#wechat_redirect'>点击这里查看：</a><a href='http://mp.weixin.qq.com/s?__biz=MjM5NTg5OTE0NA==&mid=2653691946&idx=1&sn=2c51fcd58c8423a4fae4e141c6643d86&chksm=bd29f24d8a5e7b5b5f047cee6684b775c295f0474c2815daa43c24ef1f78f68d1efc6061e498&scene=21#wechat_redirect'>广电总局：</a><a href='http://mp.weixin.qq.com/s?__biz=MjM5NTg5OTE0NA==&mid=2653691946&idx=1&sn=2c51fcd58c8423a4fae4e141c6643d86&chksm=bd29f24d8a5e7b5b5f047cee6684b775c295f0474c2815daa43c24ef1f78f68d1efc6061e498&scene=21#wechat_redirect'>没有歧视同性恋的法律和政策</a>）。</p></li><li><p>2018年10月23日，小五收到一审判决书，法院认定原告的诉讼理由缺乏事实和法律依据，<strong>判决驳回原告的诉讼请求</strong>（<a href='http://mp.weixin.qq.com/s?__biz=MjM5NTg5OTE0NA==&mid=2653692543&idx=1&sn=5a97d301e6054b1d8dfc386aae6a0d4d&chksm=bd29f0188a5e790e26097001202d2370de44cb4c2560946f769e3c020a97b91ff73f51bd9bd5&scene=21#wechat_redirect'>点击这里查看：</a><a href='http://mp.weixin.qq.com/s?__biz=MjM5NTg5OTE0NA==&mid=2653692543&idx=1&sn=5a97d301e6054b1d8dfc386aae6a0d4d&chksm=bd29f0188a5e790e26097001202d2370de44cb4c2560946f769e3c020a97b91ff73f51bd9bd5&scene=21#wechat_redirect'>昨天，我们收到了“通则案”的一审判决书</a>）。小五随即提出上诉。</p></li><li><p>2019年4月3日，小五收到北京市高级人民法院就“《通则》案”做出的终审判决：<strong>驳回上诉，维持一审判决。</strong></p><p>&nbsp;</p><p><a href='https://mp.weixin.qq.com/s/_X5IDvww_XNsyCe4PUgyyg'>quancuhui timeline</a></p><p><a href='https://mp.weixin.qq.com/s/UrQJoEMoNSWXPXg0NL9YEg' target='_blank' class='url'>https://mp.weixin.qq.com/s/UrQJoEMoNSWXPXg0NL9YEg</a></p></li></ul><p>&nbsp;</p><h3><a name='header-n117' class='md-header-anchor '></a>污名化教材京东及出版社产品质量纠纷</h3><p><a href='https://mp.weixin.qq.com/s/lg4gg1V3EejeyrgMeoLh1A' target='_blank' class='url'>https://mp.weixin.qq.com/s/lg4gg1V3EejeyrgMeoLh1A</a></p><p>2017年7月，因发现《大学生心理健康教育》一书中存在污名同性恋的内容，我委托代理律师，向江苏省宿迁市宿豫区人民法院提起诉讼，以内容中存在错误、误导等内容质量问题为由状告暨南大学出版社、京东网上购物平台。2018年圣诞，法院宣布将于1月19日公开审理此案件。</p><p>&nbsp;</p><h2><a name='header-n124' class='md-header-anchor '></a>2018</h2><h3><a name='header-n135' class='md-header-anchor '></a>同性教师劳动权及就业平等权一案</h3><ul><li>27 September 2018 Filed </li></ul><ul><li>22 November 2018 Arbitration Commission ordered the employer to pay damages in favor of him.</li></ul><p>&nbsp;</p><p>&nbsp;</p><h3><a name='header-n150' class='md-header-anchor '></a></h3><p>&nbsp;</p><p>&nbsp;</p><p>The arc of the moral universe is long, but it bends toward justice.——Martin Luther King</p><p>&nbsp;</p></div>
+</body>
+</html>

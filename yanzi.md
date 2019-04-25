@@ -11,6 +11,9 @@
 
 - 2013年8月，同性恋者小振在百度搜索中输入“同性恋”、“同性恋治疗”、“同性恋矫正”等关键词，第一条搜索结果均是心语飘香官方网站的链接，由百度推广提供，链接文字写着“专业矫正同性恋”。——[财新](http://china.caixin.com/2014-08-01/100711856.html)
 - In August 2013, using Baidu, China’s leading search engine, Xiaozhen found advertimement of a clinic Xinyu Piaoxiang which alleged they're "professional" in curing homesexuality.
+
+
+
 - 2014年2月，小振在家庭压力下，前往重庆心语飘香进行了咨询与治疗。心语飘香心理咨询师姜开成接待了小振，并为其进行浅度催眠和电击。
 - In February 2014, Xiao went in for treatment after he found the counseling center. [According to Xiao, the one-hour therapy session included hypnosis and electric shock treatment.](http://www.chinadaily.com.cn/china/2014-12/20/content_19131311.htm)
 
@@ -20,6 +23,8 @@
 - In March 2014, Xiaozhen brought the case against the Xinyu Piaoxiang clinic that gave him electric shocks as a part of gay conversion therapy.  [He also seeked an apology from China's Internet search engine Baidu for running advertisements for the facility.](https://www.theatlantic.com/international/archive/2014/07/china-court-to-hear-first-gay-conversion-therapy-case/375382/)
 
 ![](http://ww3.sinaimg.cn/large/4b8bd145gw1etizx4gzq4j218g0tn0xz.jpg)
+
+
 
 - 5月13日，海淀区法院对小振的诉讼正式立案。这一案件成为了具有象征意义的一案——中国首例“同性恋矫正治疗”案。
 - On 15 May 2014, the Haidian District People's Court in Beijing accepts his case. This is the first lawsuit of 'gay conversion therapy' in the China.

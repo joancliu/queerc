@@ -1,8 +1,8 @@
-# 同性婚姻登记行政诉讼
+# 起诉污名化教材出版社和京东
 
-**First Case of Same-sex Marriage**
+**Xixi Sued Press and Jingdong **
 
-- 关键词：同性恋、就业歧视
+- 关键词：同性恋，污名化教材、暨南大学出版社、京东
 - Keywords: gay, discrimination, workplace
 
 <!-- more -->
