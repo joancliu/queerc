@@ -20,7 +20,8 @@
 * 2017年8月28日，河南省驻马店市中级人民法院对此案件下达的民事裁定书。
 * 2019年2月18日，[行政机关认定治疗行为违法，并作出行政处罚](https://mp.weixin.qq.com/s/214_w-PFki0aCUUHaezghw)。
 
-![](https://www.washingtonpost.com/resizer/DrdOuybGSTyMOEOhb76HigE67eI=/960x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DBQEH4IYSE7VBP7VQX4KEXTQUE.jpg "A rainbow flag blows in the wind. (AFP/Getty Images)")
+![](http://tc.sinaimg.cn/maxwidth.2048/tc.service.weibo.com/p/mmbiz_qlogo_cn/abdcc6cd0261be5e9331cea9f1715c19.jpg "图片源自网络")
+
 ## 相关报道|Media Coverage and Comments
 * [驻马店男同性恋被强制治疗19天 获救后提起诉讼_中新网](http://finance.sina.com.cn/sf/news/2016-06-14/100433147.html?bsh_bid=1116617746) 
 * [河南一同性恋男子被关精神病院治疗19天，获救后提起诉讼_一号专案_澎湃新闻](https://m.thepaper.cn/newsDetail_forward_1483114)
