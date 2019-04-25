@@ -119,7 +119,7 @@
 * [LIU, Xiaonan(刘小楠)](http://rqyjy.cupl.edu.cn/info/1031/1702.htm): 中国政法大学人权研究院教授，主要研究反歧视法等。
 * [WEI,Wei(魏伟)](https://www.douban.com/note/558790908/): 华东师范大学社会学系副教授，主要研究社会学。
 
- [更多](yanjiu.md)
+ [更多](./yanjiu.md)
 
 
 
