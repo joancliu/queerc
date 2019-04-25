@@ -18,21 +18,20 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
   * Keywords: gay, conversion therapy, phychological counselling center, Baidu
   * Cause of Action: Infringement of the right of health body and the general right of personality 
   * Results: Won on 19 December 2014
-* 小太阳就业歧视一般人格权诉讼案
+* [小太阳就业歧视一般人格权诉讼案](./xiaotaiyang.md)
 
 #### 2015
-* 就业歧视一般人格权诉讼案
-* 范坡坡诉广电总局信息公开行政诉讼案
-* 污名化教材教育部行政复议行政诉讼案
-* 驻马店扭转治疗人身自由权案
-* 同性婚姻登记行政行为行政诉讼案
+* [范坡坡诉广电总局信息公开行政诉讼案](./fanpopo.md)
+* [污名化教材教育部行政复议行政诉讼案](./qiubai.md)
+* [驻马店扭转治疗人身自由权案](./zhumadian.md)
+* [同性婚姻登记行政行为行政诉讼案](./sunwenlin.md)
 
 #### 2016
-* C先生性别就业歧视劳动争议及一般人格权民事诉讼案
+* [C先生性别就业歧视劳动争议及一般人格权民事诉讼案](./cxiansheng.md)
 
 #### 2017
-* 广电总局《网络视听节目内容审核通则》信息公开及行政复议行政诉讼案
-* 污名化教材京东及出版社产品质量纠纷
+* [广电总局《网络视听节目内容审核通则》信息公开及行政复议行政诉讼案](./tongze.md)
+* [污名化教材京东及出版社产品质量纠纷](./xixi.md)
 
 #### 2018
 * [Gay teacher sues employer after getting fired for sexual orientation](./mingjue.md)
