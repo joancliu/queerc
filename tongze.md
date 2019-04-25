@@ -16,7 +16,7 @@
 - 2018年2月23日，“《通则》案”开庭审理，被告国家新闻出版广电总局及涉事的网络视听协会出席庭审。[广电总局承认中国没有歧视同性恋的相关法律、政策依据，**但否认与该通则的制定有关**](http://mp.weixin.qq.com/s?__biz=MjM5NTg5OTE0NA==&mid=2653691946&idx=1&sn=2c51fcd58c8423a4fae4e141c6643d86&chksm=bd29f24d8a5e7b5b5f047cee6684b775c295f0474c2815daa43c24ef1f78f68d1efc6061e498&scene=21#wechat_redirect)。[广电总局：](http://mp.weixin.qq.com/s?__biz=MjM5NTg5OTE0NA==&mid=2653691946&idx=1&sn=2c51fcd58c8423a4fae4e141c6643d86&chksm=bd29f24d8a5e7b5b5f047cee6684b775c295f0474c2815daa43c24ef1f78f68d1efc6061e498&scene=21#wechat_redirect)[没有歧视同性恋的法律和政策](http://mp.weixin.qq.com/s?__biz=MjM5NTg5OTE0NA==&mid=2653691946&idx=1&sn=2c51fcd58c8423a4fae4e141c6643d86&chksm=bd29f24d8a5e7b5b5f047cee6684b775c295f0474c2815daa43c24ef1f78f68d1efc6061e498&scene=21#wechat_redirect)）。
 - 2018年10月23日，小五收到一审判决书，[法院认定原告的诉讼理由缺乏事实和法律依据，判决驳回原告的诉讼请求](http://mp.weixin.qq.com/s?__biz=MjM5NTg5OTE0NA==&mid=2653692543&idx=1&sn=5a97d301e6054b1d8dfc386aae6a0d4d&chksm=bd29f0188a5e790e26097001202d2370de44cb4c2560946f769e3c020a97b91ff73f51bd9bd5&scene=21#wechat_redirect)。小五随即提出上诉。
 - 2019年4月3日，小五收到北京市高级人民法院就“《通则》案”做出的终审判决：[**驳回上诉，维持一审判决**](https://mp.weixin.qq.com/s/_X5IDvww_XNsyCe4PUgyyg)
-- 2019年4月3日，小五收到北京市高级人民法院就“《通则》案”做出的终审判决：[**驳回上诉，维持一审判决**](https://mp.weixin.qq.com/s/_X5IDvww_XNsyCe4PUgyyg)
+
 
 ![](https://graph.baidu.com/resource/1069ae550890737f8436301556230403.jpg "图片源自网络")
 
