@@ -45,7 +45,7 @@ In a vote carried out on Weibo, more than 80,000+ people voted, with 92.6% voted
 ### 2019年2月23日/Febuary 23, 2019
 本案入选2018年度中国十大影响性诉讼社会法领域候选案例。理由本案是“是性少数群体就业权的典型，……，该案的审理裁决有力地维护了这一群体的利益，为之后的裁决提供了优秀先例。”[来源：中国法律评论](http://www.yidianzixun.com/article/0LLmby5A)
 
-The case was nominated for China's Top Ten Impact Litigation in 2018 by China Law Review.“ Equal rights of LGBT+ people in workplaces might be embraced by law in this case. ”
+The case was nominated for China's Top Ten Impact Litigation in 2018 by China Law Review and was commmented that “this case is typical of LGBT+ people's equal rights in workplaces... and provided references for cases in the future. ”
 
 ![](http://i1.go2yd.com/image.php?url=0LLmbygtZq)
 
