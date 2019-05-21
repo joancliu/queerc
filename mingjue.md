@@ -1,5 +1,5 @@
 # 同志教师劳动权及就业平等权案
-**Gay teacher sues employer after getting fired for sexual orientation**
+**Gay teacher sued employer after getting fired for sexual orientation**
 
 自2018年明珏提起诉讼以来，同志教师劳动权第一案逐渐进入人们视野。本文将本案的主要的时间线以及现有的报道进行汇总。
 
@@ -32,6 +32,18 @@ On August 5, 2018, Mingjue shared the article about the ceremony above, with the
 魏文全称第二日和明珏沟通，让其做出选择，要么作为教师身份，就不要推广个人偏好，要么就辞职。最终明钰写了辞职信，表示“因本人个人原因提出辞职”。明珏证实了这份辞职信的存在，但认为由于辞职不是自己主动提起，这实际是“变相解雇”。（来源：[新京报](https://baijiahao.baidu.com/s?id=1612945527196638345&wfr=spider&for=pc))。
 
 Wei said that he communicated with Mingjue the next day and ask him to make a choice, either as a teacher and never to promote personal preferences, or to resign. At last, Ming Yu wrote his resignation letter, expressing that he had resigned for personal reasons. Mingjue confirmed the existence of this resignation letter, but claimed that as he was forced to resign, it was actually "disguised dismissal".
+
+## 关键事件| Highlights
+
+### 2018年9月29日/September 29, 2018
+[头条新闻在微博发起了“如果你是孩子的家长，知道老师是同性恋是否能接受？”的投票。本次共有8万网友参与投票，92.6％的人表示能接受，5.7％的人表示不能接受。](https://weibo.com/1618051664/GBKH3xPAJ?filter=hot&root_comment_id=0&type=comment#_rnd1558421586379)
+In a vote carried out on Weibo, more than 80,000+ people voted, with 92.6% voted that they can accept their children's teacher is gay and 5.7% voted no.
+![](https://wx4.sinaimg.cn/mw690/60718250ly1fvrk89j6hjj20gg08sglp.jpg)
+
+### 2019年2月23日/Febuary 23, 2019
+[本案被入选2018年度中国十大影响性诉讼社会法领域候选案例。理由本案是“是性少数群体就业权的典型，……，该案的审理裁决有力地维护了这一群体的利益，为之后的裁决提供了优秀先例。”](http://www.yidianzixun.com/article/0LLmby5A)
+The case was nominated for China's Top Ten Impact Litigation in 2018 by China Law Review.“ Equal rights of LGBT+ people in workplaces might be embraced by law in this case. ”
+![](http://i1.go2yd.com/image.php?url=0LLmbygtZq)
 
 ## 诉讼进程|Legal Process
 
@@ -75,10 +87,16 @@ The Supreme People's Court added a new type of dispute called "disputes over equ
 
 明珏于以平等就业权纠纷为案由向法院提起诉讼并获受理，将于2019年2月27日开庭审理。
 
-Mingjue filed on the grounds of disputes over equal rights to work and was confirmed. The trial will be held on February 27, 2019.
+Mingjue filed a second lawsuit using the new legal cause--equal right of employment and was confirmed. The trial will be held on February 27, 2019.
 
 ### 2019年2月27日/February 27, 2019
 
+当事人被法院告知，平等就业权诉讼延期审理，等待原劳动争议案件结果后继续审理。
+The hearing was suspended pending for the result of the employer's appealing against the Labor Arbitration Commission’s decision.
+
+### 2019年5月13日/May 13, 2019
+当地法院审理了对方雇主的上诉，但是未当庭宣判。
+The local court heard employer's appealing and didn't make judgment at court.
 ……
 
 ## 相关报道|Media Coverage and Comments
