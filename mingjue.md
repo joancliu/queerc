@@ -36,13 +36,17 @@ Wei said that he communicated with Mingjue the next day and ask him to make a ch
 ## 关键事件| Highlights
 
 ### 2018年9月29日/September 29, 2018
-[头条新闻在微博发起了“如果你是孩子的家长，知道老师是同性恋是否能接受？”的投票。本次共有8万网友参与投票，92.6％的人表示能接受，5.7％的人表示不能接受。](https://weibo.com/1618051664/GBKH3xPAJ?filter=hot&root_comment_id=0&type=comment#_rnd1558421586379)
+头条新闻在微博发起了“如果你是孩子的家长，知道老师是同性恋是否能接受？”的投票。本次共有8万网友参与投票，92.6％的人表示能接受，5.7％的人表示不能接受。[来源：头条新闻](https://weibo.com/1618051664/GBKH3xPAJ?filter=hot&root_comment_id=0&type=comment#_rnd1558421586379)
+
 In a vote carried out on Weibo, more than 80,000+ people voted, with 92.6% voted that they can accept their children's teacher is gay and 5.7% voted no.
+
 ![](https://wx4.sinaimg.cn/mw690/60718250ly1fvrk89j6hjj20gg08sglp.jpg)
 
 ### 2019年2月23日/Febuary 23, 2019
-[本案被入选2018年度中国十大影响性诉讼社会法领域候选案例。理由本案是“是性少数群体就业权的典型，……，该案的审理裁决有力地维护了这一群体的利益，为之后的裁决提供了优秀先例。”](http://www.yidianzixun.com/article/0LLmby5A)
+本案入选2018年度中国十大影响性诉讼社会法领域候选案例。理由本案是“是性少数群体就业权的典型，……，该案的审理裁决有力地维护了这一群体的利益，为之后的裁决提供了优秀先例。”[来源：中国法律评论](http://www.yidianzixun.com/article/0LLmby5A)
+
 The case was nominated for China's Top Ten Impact Litigation in 2018 by China Law Review.“ Equal rights of LGBT+ people in workplaces might be embraced by law in this case. ”
+
 ![](http://i1.go2yd.com/image.php?url=0LLmbygtZq)
 
 ## 诉讼进程|Legal Process
