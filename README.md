@@ -10,7 +10,7 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
 ## 最近动态 Latest News
 
 * [同性伴侣办理意定监护 LGBT Couples File for Voluntary Guardianship](https://news.cgtn.com/news/2019-08-09/LGBT-couples-in-China-file-for-voluntary-guardianship-J15eC8QcrC/index.html)
-* [人大法工委回应同性婚姻合法化 NPC Replied on Legalizing Same-sex Marriage](Commission of legislative affairs of the NPC)
+* [人大法工委回应同性婚姻合法化 NPC Replied on Legalizing Same-sex Marriage](http://www.lawnewscn.com/news/1566362563143298576)
 
 ## 领域 Fields
 
