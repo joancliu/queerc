@@ -26,7 +26,7 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
 * [同性电影下架导演诉广电总局 Gay Director Sued the Censors Who banned his film](./fanpopo.md)
 * [教材同性恋污名化秋白诉教育部 University Girl Sued National Educational Department for Homophobia Textbook](./qiubai.md)
 * [驻马店扭转治疗人身自由权案 Gay Man Sued Hospital Offering Conversion Therapy for Restricting Personal Freedom](./zhumadian.md)
-* [同性婚姻登记行政诉讼 Administrative Lawsuit against Governmental Agency Refusing Same-sex Marriage Registration](./sunwenlin.md)**
+* [同性婚姻登记行政诉讼 Administrative Lawsuit against Governmental Agency Refusing Same-sex Marriage Registration](./sunwenlin.md)
 
 #### 2016
 * [C先生跨性别就业歧视案 Civil Lawsuit against Employer Discriminating against Transgender](./cxiansheng.md)
