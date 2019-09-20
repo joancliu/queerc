@@ -24,16 +24,16 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
 
 #### 2015
 * [同性电影下架导演诉广电总局 Gay Director Sued the Censors Who banned his film](./fanpopo.md)
-* [教材同性恋污名化秋白诉教育部 ](./qiubai.md)
-* [驻马店扭转治疗人身自由权案](./zhumadian.md)
-* [同性婚姻登记行政诉讼](./sunwenlin.md)**
+* [教材同性恋污名化秋白诉教育部 University Girl Sued National Educational Department for Homophobia Textbook](./qiubai.md)
+* [驻马店扭转治疗人身自由权案 Gay Man Sued Hospital Offering Conversion Therapy for Restricting Personal Freedom](./zhumadian.md)
+* [同性婚姻登记行政诉讼 Administrative Lawsuit against Governmental Agency Refusing Same-sex Marriage Registration](./sunwenlin.md)**
 
 #### 2016
-* [C先生跨性别就业歧视案](./cxiansheng.md)
+* [C先生跨性别就业歧视案 Civil Lawsuit against Employer Discriminating against Transgender](./cxiansheng.md)
 
 #### 2017
-* [广电总局《网络视听节目内容审核通则》案](./tongze.md)
-* [污名化教材京东及出版社产品质量纠纷](./xixi.md)
+* [广电总局《网络视听节目内容审核通则》案 Administrative Lawsuit about Guidelines Considering Gay Contents as Obscenity ](./tongze.md)
+* [污名化教材京东及出版社产品质量纠纷 Civil Case against Press and E-commerce Platform for Homophobia Books](./xixi.md)
 
 #### 2018
 * [同志教师劳动权及就业平等权案 Gay teacher sues employer after getting fired for sexual orientation](./mingjue.md)
