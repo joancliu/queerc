@@ -11,7 +11,7 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
 * 反歧视立法 Anti-discrimination Law
 * 反家暴立法 Anti-Domestic-Violence
 
-### 公益诉讼 Impact Litigation
+### [公益诉讼 Impact Litigation](./litigation.md)
 
 #### 概览 Overview
 ![](http://assets.processon.com/chart_image/5cc20886e4b0841b8440257f.png)
