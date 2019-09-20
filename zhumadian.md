@@ -1,8 +1,9 @@
-# 
+#  驻马店扭转治疗人身自由权案 
 
-**First Case of Discrimination Based on Sexual Orientation in Workplace**
+# Gay Man Sued Hospital Offering Conversion Therapy for Restricting Personal Freedom
 
-- 关键词：同性恋、就业歧视
+* 关键词：同性恋、就业歧视
+
 - Keywords: gay, discrimination, workplace
 
 <!-- more -->
@@ -37,3 +38,6 @@
 * [China: 'Conversion Therapy' Underscores Lack of LGBT Rights - Time](http://time.com/4367925/china-lgbt-gay-conversion-therapy-rights/)
 * [Gay Chinese man wins legal battle over forced conversion therapy - BBC News](https://www.bbc.com/news/world-asia-40490946)
 
+
+
+[回到主页 Back to homepage](./README.md)

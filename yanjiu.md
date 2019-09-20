@@ -17,7 +17,7 @@
 * [Timothy Hildebrandt - London School of Economics & Political Science](http://www.lse.ac.uk/social-policy/people/academic-staff/Dr-Timothy-Hildebrandt) Associate Professor, Department of Social Policy
 
 (……等待更新)
- 
+
 
 ## 文献
 
@@ -27,7 +27,9 @@ _**一个不错的豆瓣书单：[Queer "China" and queer sinophone](https://www
 * Elisabeth L. Engebretsen: [Queer/Tongzhi China](https://book.douban.com/subject/26725049/)
 * Siodhbhra Parkin: [LGBT Rights-Focused Legal Advocacy in China: The Promise, and Limits, of Litigation](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=2718&context=ilj)
 
-(...等待更新)
+
+
+[回到主页 Back to homepage](./README.md)
 
 
 
