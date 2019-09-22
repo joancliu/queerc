@@ -8,9 +8,14 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
 
 
 ## 最近动态 Latest News
-
-* [同性伴侣办理意定监护 LGBT Couples File for Voluntary Guardianship](https://news.cgtn.com/news/2019-08-09/LGBT-couples-in-China-file-for-voluntary-guardianship-J15eC8QcrC/index.html)
-* [人大法工委回应同性婚姻合法化 NPC Replied on Legalizing Same-sex Marriage](http://www.lawnewscn.com/news/1566362563143298576)
+* On 21 September, CCTV-NEWS reported on gender discrimination in workplaces
+  * Gender discrimination is prevalent in recruiment.
+  * The second-child policy might aggravate the issue. Companies, currently bearing the cost maternity leave, are reluntant to hire female candidate who doesn't have baby or only have one child.
+  * Facilities like infant rooms rarely exist in most companies.
+  * Social attitude that women should take the responsibility in the family and prejudice that girls are inherently worse than boys in some fields are also related to discrimination.
+* On 19 September, White paper on "Equality, Development and Sharing: Progress of Women's Cause in 70 Years Since New China's Founding" was issued yesterday.(Full text:[EN](http://www.xinhuanet.com/english/2019-09/19/c_138405617.htm)/[CN](http://www.scio.gov.cn/zfbps/32832/Document/1664883/1664883.htm))
+* 同性伴侣办理意定监护 LGBT Couples File for Voluntary Guardianship[Coverage](https://news.cgtn.com/news/2019-08-09/LGBT-couples-in-China-file-for-voluntary-guardianship-J15eC8QcrC/index.html)
+* 人大法工委回应同性婚姻合法化 NPC Replied on Legalizing Same-sex Marriage[coverage](http://www.lawnewscn.com/news/1566362563143298576)
 
 ## 领域 Fields
 
