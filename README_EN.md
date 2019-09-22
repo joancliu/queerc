@@ -8,7 +8,7 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
 
 
 ## 最近动态 Latest News
-* * On 21 September, CCTV-NEWS reported on gender discrimination in workplaces ([watch the video](http://tv.cctv.com/2019/09/21/VIDExitfWmQoDKo0x0X8Vldz190921.shtml))
+* On 21 September, CCTV-NEWS reported on gender discrimination in workplaces ([watch the video](http://tv.cctv.com/2019/09/21/VIDExitfWmQoDKo0x0X8Vldz190921.shtml))
   * **KEY POINTS**
   * Gender discrimination is prevalent in recruitment.
   * The second-child policy might aggravate the issue. Companies, currently bearing the cost maternity leave, are reluctant to hire female candidates who don't have baby or only have one child.
