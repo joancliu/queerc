@@ -28,7 +28,6 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
 
 ![](http://assets.processon.com/chart_image/5cc20886e4b0841b8440257f.png)
 
-* [SOGIE在联合国 SOGIE in UN](./un.md)
 
 ### 文化 Cutlture
 
